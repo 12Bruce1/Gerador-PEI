@@ -1,0 +1,5 @@
+{
+  "name": "PEI Generator AI",
+  "description": "A modern AI-powered tool to generate Individualized Education Plans (PEI) for students using Google Gemini.",
+  "requestFramePermissions": []
+}
